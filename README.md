@@ -3,13 +3,13 @@
 Usando a API do Telegram é possivel consultar CEP e o IBGE.
 
 - Requirements:
-telepot
-requests
-json
-random=
-re
-sys
-time
+telepot\n
+requests\n
+json\n
+random\n
+re\n
+sys\n
+time\n
 
 - Install:
 `pip install -r requirements.txt
