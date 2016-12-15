@@ -1,0 +1,7 @@
+telepot==9.1
+requests==2.11.1
+json==18.2
+random==9.6
+re==7.2
+sys==28.1
+time==15.3
