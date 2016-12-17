@@ -12,9 +12,6 @@ import time
 # Developers:
 # Jonatas FIL a.k.a Dkr and Tesla
 
-
-#bot = telepot.Bot()
-
 reload(sys)
 sys.setdefaultencoding('utf8')
 
